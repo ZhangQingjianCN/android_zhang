@@ -1,5 +1,5 @@
 public class Zhang {
 	public static void main (){
-		System.out.println ("zhang qing jian");
+		System.out.println ("zhang");
 	}
 }
