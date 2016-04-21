@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">我不是微信</string>
+    <string name="action_settings">设置</string>
+    <string name="introduce">红富士苹果，量大从优</string>
+    <string name="exit">退出</string>
+    <string name="shopping">购买</string>
+    <string name="next_page">下一页</string>
+    <string name="out_shopping">已经卖光了！！</string>
+    <string name="add">增加</string>
+    <string name="remove">移除</string>
+</resources>

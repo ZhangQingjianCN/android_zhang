@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.taoxue.myapplication8.MainActivity">
+    <item
+        android:id="@+id/settings_item"
+        android:orderInCategory="10"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/add_item"
+        android:orderInCategory="20"
+        android:title="@string/add"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/remove_item"
+        android:orderInCategory="30"
+        android:title="@string/remove"
+        app:showAsAction="never" />
+
+</menu>
