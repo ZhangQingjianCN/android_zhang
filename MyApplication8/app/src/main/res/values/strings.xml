@@ -8,4 +8,5 @@
     <string name="out_shopping">已经卖光了！！</string>
     <string name="add">增加</string>
     <string name="remove">移除</string>
+    <string name="back">返回</string>
 </resources>
